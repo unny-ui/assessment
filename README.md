@@ -1,2 +1,2 @@
 # assessment
-Diagnosis of your good points
+いいところを診断
